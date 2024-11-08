@@ -1,6 +1,8 @@
 # project-capstone
 **CLOUD COMPUTING**
 
+**Week 1**
+
 Cloud Aristecture Diagram 
 ![cloud arsitecture](https://github.com/user-attachments/assets/b4027d51-5069-4194-8481-60f5dfddf216)
 
